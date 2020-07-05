@@ -1,6 +1,6 @@
 # evenOdd
 
-[![Build Status](http://127.0.0.1:8080/buildStatus/icon?job=library-pipeline)](http://127.0.0.1:8080/job/library-pipeline/)
+[![Build Status](https://999c60c4a210.ngrok.io:8080/buildStatus/icon?job=library-pipeline)](https://999c60c4a210.ngrok.io:8080/job/library-pipeline/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
